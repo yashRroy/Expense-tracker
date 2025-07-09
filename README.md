@@ -1,5 +1,7 @@
 MERN Expense Tracker
 
+ ![Demo](/mern.gif)
+
 A full-stack Expense Tracker web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). Track your income and expenses, visualize your spending, and manage your personal finances efficiently.
 
 Features
